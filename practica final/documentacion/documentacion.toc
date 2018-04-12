@@ -1,0 +1,14 @@
+\select@language {spanish}
+\contentsline {section}{\numberline {1}Resumen del funcionamiento del sistema experto}{3}
+\contentsline {section}{\numberline {2}Descripci\IeC {\'o}n del proceso seguido para el desarrollo.}{3}
+\contentsline {subsection}{\numberline {2.1}Procedimiento seguido para obtener el conocimiento.}{3}
+\contentsline {subsection}{\numberline {2.2}Procedimiento de validaci\IeC {\'o}n y verificaci\IeC {\'o}n del sistema.}{8}
+\contentsline {section}{\numberline {3}Descripci\IeC {\'o}n del sistema desarrollado}{8}
+\contentsline {subsection}{\numberline {3.1}Variables de entrada del problema}{8}
+\contentsline {subsection}{\numberline {3.2}Variables de salida del problema}{8}
+\contentsline {subsection}{\numberline {3.3}Conocimiento global del sistema: hechos y relaciones iniciales}{9}
+\contentsline {subsection}{\numberline {3.4}Especificaci\IeC {\'o}n de cada m\IeC {\'o}dulo}{10}
+\contentsline {subsection}{\numberline {3.5}Estructura de funcionamiento del esquema de razonamiento del sistema}{11}
+\contentsline {subsection}{\numberline {3.6}Representaci\IeC {\'o}n de los hechos utilizados por el sistema}{11}
+\contentsline {subsection}{\numberline {3.7}Reglas de cada uno de los m\IeC {\'o}dulos}{12}
+\contentsline {section}{\numberline {4}Uso del sistema}{14}
